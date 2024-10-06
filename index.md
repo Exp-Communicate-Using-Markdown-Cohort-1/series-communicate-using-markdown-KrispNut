@@ -4,3 +4,6 @@
 git init
 git clone "enter-your-git-url-here"
 ```
+- [ ] open index.md
+- [ ] make changes
+- [ ] commit changes
